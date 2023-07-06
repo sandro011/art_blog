@@ -1,38 +1,29 @@
-# aaa blog about my art :)
-# Github-hosted markdown blog
+# A blog about my art :)
 
-### Steps
+Here i post inspirations, i use for my art.
+Although i respect and appreciate the "old masters", I mainly draw inspiration
+from the modern art era until now.
+I love paintings from the Expressionism, Cubism, Furusim, Dadaism, Surrealism, Minimalism,
+some Photorealism (especially Richter's artwork) and last but not least, contemporism.
 
-1. fork repository
-2. in the settings, activate Github Pages using `/docs` as the source
-3. start writing markdown content in the `pages` folder
-    - use `?` suffix for local links to other pages eg `?page2`
-    - use `docs/assets` to store assets
-4. Serve `index.html` locally to display markdown dynamically while writing 
+Besides my inspirationsources, i will post my own artwork, which will consist mainly
+of paintings (acrilc), drawings, sketches and tattoo's. :)
 
-### Ready to build?
+Now have fun reading my Blog!
 
-4. run `node utils/build.js` to generate html into `/docs` folder
+### Inspiration 
 
-### Custom domain?
+Here i list the inspriations i love and use for my own work.
+ - Mondrian
+ - Van Gogh
+ - Monet
+ - Rothko
 
-5. under Github Pages settings, add custom url and enforce HTTPS
+### Artwork
 
-## Structure
- 
- - index.html
- - assets
-     - css
-         - main.css
-     - images
-         - favicon.png
- - pages
-     - index.md
-     - test.md
- - utils
-     - lib
-         - checkbox.js
-         - Marked.js
-         - Highlight.js
-     - build.js
-     - dev.js
+Here i will show my own art work, have a look:
+
+![sketch 01](sketch1.jpeg)
+
+This is a first sketch of 6 paintings i want to make.
+
