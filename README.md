@@ -6,7 +6,6 @@ Although i respect and appreciate the "old masters", I mainly draw inspiration
 from the modern art era until now.
 I love paintings from the Expressionism, Cubism, Furusim, Dadaism, Surrealism, Minimalism,
 some Photorealism (especially Richter's artwork) and last but not least, contemporarism.
-
 Besides my inspirationsources, i will post my own artwork, which will consist mainly
 of paintings (acrilc), drawings, sketches and tattoo's. :)
 
