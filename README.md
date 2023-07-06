@@ -1,5 +1,6 @@
 # A blog about my art :)
 
+<br/><br/>
 Here i post inspirations, i use for my art.
 Although i respect and appreciate the "old masters", I mainly draw inspiration
 from the modern art era until now.
@@ -11,6 +12,7 @@ of paintings (acrilc), drawings, sketches and tattoo's. :)
 
 Now have fun reading my Blog!
 
+<br/><br/>
 ### Inspiration 
 
 Here i list the inspriations i love and use for my own work.
@@ -19,6 +21,7 @@ Here i list the inspriations i love and use for my own work.
  - Monet
  - Rothko
 
+<br/><br/>
 ### Artwork
 
 Here i will show my own art work, have a look:
