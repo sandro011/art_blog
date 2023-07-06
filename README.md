@@ -4,7 +4,7 @@ Title: my blog
 
 <html>
     <head>
-        <link rel"shortcut icon" type="image/png" href="favicon-16x16.png?"/>
+        <link rel="shortcut icon" type="image/png" href="favicon-16x16.png?"/>
     </head>
 </html>
 
