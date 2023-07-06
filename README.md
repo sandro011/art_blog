@@ -1,4 +1,5 @@
 <head>
+    <title>my blog</title>
     <link rel"shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
