@@ -1,5 +1,8 @@
+/*
+Title: my blog
+*/
+
 <link rel"shortcut icon" type="image/png" href="favicon-16x16.png">
-<title>my blog</title>
 
 # A blog about my art :)
 
