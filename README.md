@@ -4,7 +4,7 @@
     </head>
 </html>
 
-<h1 style="color: #0096FF; font-size: 40px;">Blog about my art</h1>
+<h1 style="color: #0096FF; font-size: 40px; border-bottom: none;">Blog about my art</h1>
 
 <br/><br/>
 Here i post inspirations, i use for my art.
