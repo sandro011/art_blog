@@ -23,7 +23,8 @@ Here i list the inspriations i love and use for my own work.
 
 Here i will show my own art work, have a look:
 
-![sketch 01](sketch1.jpeg)
+<!---![sketch 01](sketch1.jpeg)-->
+<img src="sketch1.jpeg" alt="sketch 01"/>
 
 This is a first sketch of 6 paintings i want to make.
 
