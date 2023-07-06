@@ -18,7 +18,7 @@ of paintings (acrilc), drawings, sketches and tattoo's. :)
 Now have fun reading my Blog!
 
 <br/><br/>
-### Inspiration 
+<h2>Inspiration</h2>
 
 Here i list the inspriations i love and use for my own work.
  - Mondrian
@@ -27,7 +27,7 @@ Here i list the inspriations i love and use for my own work.
  - Rothko
 
 <br/><br/>
-### Artwork
+<h2>Artwork</h2>
 
 Here i will show my own art work, have a look:
 
