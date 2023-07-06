@@ -4,7 +4,7 @@
     </head>
 </html>
 
-# A blog about my art :)
+<h1>A blog about my art :)</h1>
 
 <br/><br/>
 Here i post inspirations, i use for my art.
