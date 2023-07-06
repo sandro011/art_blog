@@ -2,7 +2,7 @@
 Title: my blog
 */
 
-<link rel"shortcut icon" type="image/png" href="favicon-16x16.png?">
+<link rel"shortcut icon" type="image/png" href="favicon-16x16.png?"/>
 
 # A blog about my art :)
 
