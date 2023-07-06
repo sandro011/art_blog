@@ -1,11 +1,8 @@
-/*
-Title: my blog
-*/
-
 <html>
     <head>
-        <link rel="shortcut icon" type="image/png" href="favicon-16x16.png?"/>
-        <link href="favicon-16x16.png?" sizes="57x57" rel="apple-touch-icon">
+        <link rel="shortcut icon" type="image/png" href="favicon-16x16.png?" />
+        <link href="favicon-16x16.png?" rel="apple-touch-icon" />
+        <title>hi</title>
     </head>
 </html>
 
